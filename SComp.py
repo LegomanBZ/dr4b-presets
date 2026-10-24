@@ -138,7 +138,7 @@ drive_control.buttonB.released(close_grip)
 LEVEL_POSITIONS = [0, 180, 360, 540, 720, 900]
 
 # CUSTOMIZE ELEVATOR SPEED
-PRESET_SPEED = 70  # Percent
+PRESET_SPEED = 50  # Percent
 
 # Tracks the requested scoring level
 current_level = 0
